@@ -7,7 +7,9 @@
             ],
             "include_dirs": [
                 "/usr/include/",
-                "/opt/local/include/"
+                "/opt/local/include/",
+                "/app/.apt/usr/lib/",
+                "/.apt/usr/lib/"
             ],
             "link_settings": {
                 "libraries": [
