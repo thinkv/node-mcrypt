@@ -10,6 +10,7 @@
                 "/opt/local/include/",
                 "/usr/local/Cellar/mcrypt/",
                 "/app/mcrypt/",
+                "/app/mcrypt/incude/",
                 "<!(node -e \"require('nan')\")"
             ],
             "link_settings": {
