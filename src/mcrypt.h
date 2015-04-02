@@ -3,7 +3,7 @@
 #define SRC_NODE_MCRYPT_H_
 
 #include <node.h>
-#include <mcrypt.h>
+#include </app/mcrypt/include/mcrypt.h>
 
 class MCrypt : public node::ObjectWrap {
     public:
