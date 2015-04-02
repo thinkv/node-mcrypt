@@ -4,7 +4,7 @@
 
 #include <node.h>
 #include <node_buffer.h>
-#include <mcrypt.h>
+#include </app/mcrypt/include/mcrypt.h>
 
 #include "mcrypt.h"
 
