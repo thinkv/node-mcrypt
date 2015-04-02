@@ -7,7 +7,7 @@
 #include <sstream>
 
 #include <nan.h>
-#include <mcrypt.h>
+#include </app/mcrypt/include/mcrypt.h>
 
 #define MCRYPT_MODULE_ERROR_CHECK(mcrypt) \
     if (mcrypt->mcrypt_ == MCRYPT_FAILED) { \
